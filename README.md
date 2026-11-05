@@ -1,4 +1,4 @@
-# Lab-12  Word Search with While
+# Lab-11  Word Search with While
 
 **This lab should only use String methods already covered in the class.**
 
